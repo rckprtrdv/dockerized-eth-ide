@@ -18,7 +18,7 @@ Quickstart:
 
 After this page has loaded, which may take a couple seconds, you should see the following screen.
 
-![Cloud9 IDE Screen](https://github.com/rckprtrdv/Cloud9EthDev/blob/master/proj_example.png)
+![Cloud9 IDE Screen](https://github.com/rckprtrdv/dockerized-eth-ide/blob/master/proj_example.png)
 
 In the Terminal at the bottom of Cloud9 IDE screen type.
 
@@ -38,7 +38,7 @@ truffle init
 
 Now in the `hello-world` directory is the following structure.
 
-![Cloud9 IDE Screen](https://github.com/rckprtrdv/Cloud9EthDev/blob/master/dir_example_2.png)
+![Cloud9 IDE Screen](https://github.com/rckprtrdv/dockerized-eth-ide/blob/master/dir_example_2.png)
 
 
 The following commands are avialable via the Terminal in the Cloud9 IDE
